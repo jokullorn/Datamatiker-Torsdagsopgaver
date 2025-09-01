@@ -1,0 +1,10 @@
+String teacherName= "Tess Løvgreen"
+int daysInYear = 365;
+String city = "København";
+boolean isAugust = true;
+int minDay = 60*24;
+float birthday = 22.12;
+String greeting = "Hej, jeg heddder"+teachername;
+boolean isSeptember = false;
+double result = 2.2 + 33;
+char letter = 'S';
